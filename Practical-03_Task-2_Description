@@ -1,0 +1,5 @@
+There will be a fatal error shown
+when the file will be executed as 
+there is not any header file of cout available
+for the compiler during execution.
+

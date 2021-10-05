@@ -1,0 +1,8 @@
+As we are using a char data type 
+so if even we input abc or 123
+as input the compiler will store only
+one char from the input data as it can
+only store a character in the memory whic his allocated
+for char data type.
+To resolve this we can use getline function instead of cin
+and this will print full string as a output.
